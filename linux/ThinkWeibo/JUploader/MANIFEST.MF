@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ commons-httpclient-3.1.jar weibo4j.jar commons-log
+ ging-1.1.jar commons-codec.jar
+Class-Path: .
+Rsrc-Main-Class: com.thinkman.uploader.Uploader
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
